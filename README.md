@@ -1,5 +1,8 @@
 # Alura-Book
  Projeto feito durante o curso de responsividade da Alura
+ ![Curso de
+HTML e CSS: responsividade com mobile-first](https://github.com/GabrielVictorP/alurabook/assets/133161909/ef75179d-a8fb-44ed-97c2-19378ca61b16)
+
 
 ## Sobre o Projeto:
 Foi desenvolvido para Desktop, Smartphone e Tablet, com responsividade diferente em cada um e mudanças
